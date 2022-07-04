@@ -5,6 +5,8 @@
 ■ Entre las tecnologías que manejo se encuentran:
 React, Redux, GraphQL, NodeJS, Express, MySQL, MongoDB, Firebase, Jason Web Token, Passport, Auth0
 
+■ Actualmente me encuentro cursando la carrera de Programación en la UTN
+
 
 ## Acerca de mí
 
@@ -12,17 +14,6 @@ React, Redux, GraphQL, NodeJS, Express, MySQL, MongoDB, Firebase, Jason Web Toke
 
 ■ Durante todos esos años, continué haciendo pequeños proyectos sin tanta complejidad, hasta que poco a poco inicié algunos cursos en Udemy y la carrera de Backend en Coderhouse.
 
-■ Hoy soy autodidacta, estudiando aproximadamente 6 horas por día.
+■ Me considero autodidacta, iniciando proyextos constantemente de cualquier tema que puedo despertar mi interés.
 
 ■ Mi empeño está puesto en seguir aprendiendo y crecer como programador.
-
-
-## Contactame
-
-Si estás interesado en mi perfil, puede contactarme en
-
-■ Git: https://github.com/alefigure8
-
-■ Página personal: http://alegomeznieto.dev
-
-■ Mail gomeznieto@protonmail.com
