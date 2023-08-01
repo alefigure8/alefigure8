@@ -1,19 +1,20 @@
 
 
-■ Hola, mi nombre es Alejandro Gomez Nieto
+## Hola :wave:, mi nombre es Alejandro Gomez Nieto
 
-■ Entre las tecnologías que manejo se encuentran:
-React, Redux, GraphQL, NodeJS, Express, MySQL, MongoDB, Firebase, Jason Web Token, Passport, Auth0
+Soy un desarrolador backend :computer: viviendo en Argentina, apasionado por desarrollar aplicaciones que me exijan continuar aprendiendo. Trabajé con diversos lenguajes, ya sea realizando aplicaciones webs con JavaScript y C# (.NET), como aplicaciones de software con C++ utilizando POO. 
 
-■ Actualmente me encuentro cursando la carrera de Programación en la UTN
+Actualmente me encuentro terminando la tecnicatura en Programación en la UTN y en donde me deseméño como ayudante de cátedra en la materia Programación 1 junto a Maximiliano Sar Fernandex (Maxi Programa)
 
 
 ## Acerca de mí
 
-■ Empecé a los 16 años con HTML y vendiendo pequeñas páginas. Luego me alejé unos años para estudiar abogacía (hasta tercer año, terminado) y más tarde producción audiovisual (Recibido) y la carrera de Guion cinematográfico en Guionarte (Terminado).
+:small_red_triangle: Actualmente trabajo en @construAR como fronted (Javascript, HTML y CSS)
 
-■ Durante todos esos años, continué haciendo pequeños proyectos sin tanta complejidad, hasta que poco a poco inicié algunos cursos en Udemy y la carrera de Backend en Coderhouse.
+:small_red_triangle: Trabajo con C#, .NET, C++, JavaScript, NodeJS, React y SQL
 
-■ Me considero autodidacta, iniciando proyextos constantemente de cualquier tema que puedo despertar mi interés.
+:small_red_triangle: Escribo sobre lo que aprendo en mi [página](https://alegomeznieto.com.ar)
 
-■ Mi empeño está puesto en seguir aprendiendo y crecer como programador.
+:small_red_triangle: Mi perfil en [Linkedin](https://alegomeznieto.com.ar](https://www.linkedin.com/in/alejandro-gomez-nieto/)https://www.linkedin.com/in/alejandro-gomez-nieto/)
+
+:small_red_triangle: Poedés descargar mi [CV](https://alegomeznieto.com.ar](https://www.linkedin.com/in/alejandro-gomez-nieto/)https://www.linkedin.com/in/alejandro-gomez-nieto/](https://drive.google.com/file/d/1rQEa-fKvIo5SczKNhvnBR1lZmX1Cr_69/view?usp=drive_link)https://drive.google.com/file/d/1rQEa-fKvIo5SczKNhvnBR1lZmX1Cr_69/view?usp=drive_link)
