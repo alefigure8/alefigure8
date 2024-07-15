@@ -18,4 +18,4 @@ Trabajo en Zeroth (Agencia de noticias de la construcción) como desarrollador f
 
 :small_red_triangle: Mi perfil en [Linkedin](https://www.linkedin.com/in/alejandro-gomez-nieto/)
 
-:small_red_triangle: Poedés descargar mi [CV](https://drive.google.com/file/d/1rQEa-fKvIo5SczKNhvnBR1lZmX1Cr_69/view?usp=drive_link](https://drive.google.com/file/d/1-gXeE1XtqUpaGfjsTl3CpA-qXnR5bXXb/view)
+:small_red_triangle: Poedés descargar mi [CV](https://drive.google.com/file/d/1-gXeE1XtqUpaGfjsTl3CpA-qXnR5bXXb/view)
